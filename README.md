@@ -9,3 +9,6 @@ OnlyPermission Android Projcet(2021.04.29 ~ 2021.04.30).
 2. PowerManager
 3. PACKAGE_USAGE_STATS
 4. ACTION_MANAGE_OVERLAY_PERMISSION
+
+* Features to be added
+1. English Support
