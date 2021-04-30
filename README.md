@@ -1,6 +1,6 @@
 # OnlyPermission
 OnlyPermission Android Projcet(2021.04.29 ~ 2021.04.30).
-- Developer Github: ff-1204
+- Developer: ff-1204
 - OS: Android 11
 - targetSdkVersion: 30
 
